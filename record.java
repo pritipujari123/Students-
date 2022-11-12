@@ -17,10 +17,10 @@ public class record {
 	
 	public static void main(String[] args) 
 	{
-		HW1[] obj=new HW1[5];
+	record [] obj=new record [5];
 		for(int i=0;i<5;i++)
 		{
-			obj[i]=new HW1();
+			obj[i]=new record ();
 			obj[i].accept();
 		}
 		System.out.println("All the data is :");
