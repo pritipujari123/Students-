@@ -14,7 +14,7 @@ public class Function {
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		HW2 obj=new HW2 ();
+		Function obj=new function ();
 		obj.accept();
 	}
 	public void accept()
