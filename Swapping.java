@@ -12,7 +12,7 @@ public class Swapping {
 	int num1,num2,temp;
 	public static void main(String[] args) 
 	{
-		HW obj=new HW();
+	swapping obj=new swapping ();
 		obj.accept();
 
 	}
